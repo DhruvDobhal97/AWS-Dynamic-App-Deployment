@@ -46,3 +46,5 @@ This project demonstrates the deployment of a dynamic web application using AWS 
    ```bash
    git clone https://github.com/yourusername/aws-cloud-infra-projects.git
    cd aws-cloud-infra-projects/Project1_DynamicAppDeployment
+2. Deploy the CloudFormation stack
+3. Access the website via the ALB DNS provided post-deployment.
